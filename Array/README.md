@@ -1,6 +1,8 @@
 # Класс для хранения трехмерного массива 17-битных положительных целых чисел
 ## Пример использования:
-```YourClassName arr = YourClassName::make_array(10, 2, 30);
+```
+YourClassName arr = YourClassName::make_array(10, 2, 30);
 
 arr[4][3][2] = 100500;
-std::cout << arr[4][3][2];```
+std::cout << arr[4][3][2];
+```
