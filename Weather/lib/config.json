@@ -1,0 +1,8 @@
+{
+    "cities": [
+        "Moscow"
+    ],
+    "database_file": "outjson.json",
+    "max_number_of_days_for_forecast": 16
+
+}
