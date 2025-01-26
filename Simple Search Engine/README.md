@@ -20,20 +20,17 @@
 - Поиск регистронезависимый
 ## Синтаксис запросов
 Должен поддерживать скобки а также операции AND и OR (регистр имеет значение). Таким образом в качестве запроса выступают логические выражения. Разделитель между словами - пробел(ы)
-
 Следующие запросы считаются корректными
-
-"for"
-"vector OR list"
-"vector AND list"
-"(for)"
-"(vector OR list)"
-"(vector AND list)"
-"(while OR for) and vector"
-"for AND and"
+- "for"
+- "vector OR list"
+- "vector AND list"
+- "(for)"
+- "(vector OR list)"
+- "(vector AND list)"
+- "(while OR for) and vector"
+- "for AND and"
 Некорректными запросами считаются
-
-"for AND"
-"vector list"
-"for AND OR list"
-"vector Or list"
+- "for AND"
+- "vector list"
+- "for AND OR list"
+- "vector Or list"
